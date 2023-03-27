@@ -1,6 +1,6 @@
 # Wolves Launcher
 
-
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeoliSky%2FWolves-Launcher-Release&count_bg=forestgreen&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=%EB%B0%A9%EB%AC%B8&edge_flat=false"/><br />
 Wolves 서버를 위한 통합 패치 런처 입니다.
 
 다운로드 <a href="https://github.com/SeoliSky/Wolves-Launcher-Release/releases" target="_blank"><img src="https://img.shields.io/github/v/release/SeoliSky/Wolves-Launcher-Release?color=forestgreen&label=%EC%B5%9C%EC%8B%A0%20%EB%9F%B0%EC%B2%98%20%EB%B2%84%EC%A0%84"/></a>
